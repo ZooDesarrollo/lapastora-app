@@ -20,7 +20,7 @@ export default {
    ** See https://nuxtjs.org/api/configuration-head
    */
   head: {
-    titleTemplate: 'ONG Salva animales',
+    titleTemplate: 'La Pastora App',
     title: 'ONG Salva animales',
     meta: [{
         charset: 'utf-8'
