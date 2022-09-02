@@ -33,7 +33,7 @@
                       value: 'M'
                     },{
                       text:'Hembra',
-                      value: 'H'
+                      value: 'F'
                     },{
                       text:'INDEFINIDO',
                       value: 'C'
